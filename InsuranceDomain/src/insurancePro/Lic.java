@@ -8,6 +8,8 @@ public class Lic {
 		System.out.println ("we create one project ");
 		
 		System.out.println ("todays task complete");
+		
+		System.out.println ("2nd task");
 
 	}
 
